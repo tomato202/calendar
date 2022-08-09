@@ -3,7 +3,7 @@
 □ 製作者 tomato202
 
 注意点  
-YicDiaryとYicDiary_loginは同じファイルに入れる。
+YicDiaryとYicDiary_loginは同じファイルに入れる。  
 仮想環境でプログラムを動かすこと
 
 
