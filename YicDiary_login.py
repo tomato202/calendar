@@ -1,8 +1,6 @@
 # 予定管理アプリ(ログイン)
 
-# YIC情報ビジネス専門学校
-# 情報システム科2年
-# 藤岡 岳史
+# ユーザ名 tomato202
 
 from YicDiary import Yic
 
