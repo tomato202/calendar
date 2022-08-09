@@ -1,3 +1,9 @@
+# 予定管理アプリ
+# ユーザ名 tomato202
+
+1. apr02のデータベースを作る
+
+2. テーブル作成
 CREATE TABLE kinds_table(
   kinds_code TINYINT,
   kinds NVARCHAR(15) NOT NULL,
@@ -22,12 +28,13 @@ CREATE TABLE plan_table(
   FOREIGN KEY (user_id) REFERENCES user_table(user_id)
 );
 
-INSERT INTO kinds_table(kinds_code, kinds) VALUES(1, "�w�Z");
-INSERT INTO kinds_table(kinds_code, kinds) VALUES(2, "����");
-INSERT INTO kinds_table(kinds_code, kinds) VALUES(3, "�ۑ�");
-INSERT INTO kinds_table(kinds_code, kinds) VALUES(4, "�s��");
-INSERT INTO kinds_table(kinds_code, kinds) VALUES(5, "�A��");
-INSERT INTO kinds_table(kinds_code, kinds) VALUES(6, "�A���o�C�g");
-INSERT INTO kinds_table(kinds_code, kinds) VALUES(7, "���s");
+3. データを挿入
+INSERT INTO kinds_table(kinds_code, kinds) VALUES(1, "学校");
+INSERT INTO kinds_table(kinds_code, kinds) VALUES(2, "試験");
+INSERT INTO kinds_table(kinds_code, kinds) VALUES(3, "課題");
+INSERT INTO kinds_table(kinds_code, kinds) VALUES(4, "行事");
+INSERT INTO kinds_table(kinds_code, kinds) VALUES(5, "就活");
+INSERT INTO kinds_table(kinds_code, kinds) VALUES(6, "アルバイト");
+INSERT INTO kinds_table(kinds_code, kinds) VALUES(7, "旅行");
 
 INSERT INTO user_table(user_id, user, password) VALUES(1, "hoge", "P@ssword");
