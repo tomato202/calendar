@@ -1,9 +1,6 @@
 ### readme
-□ 予定管理アプリ
+□ 予定管理アプリ  
 □ 製作者 tomato202
-
-
----
 
 注意点  
 YicDiaryとYicDiary_loginは同じファイルに入れる。
