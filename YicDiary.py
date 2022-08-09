@@ -1,9 +1,6 @@
 # 予定管理アプリ
 
-# YIC情報ビジネス専門学校
-# 情報システム科2年
-# 藤岡 岳史
-
+# ユーザ名 tomato202
 
 import tkinter as tk
 import tkinter.ttk as ttk
