@@ -1,6 +1,6 @@
-## readme
-□
-□製作者 tomato202
+### readme
+□ 予定管理アプリ
+□ 製作者 tomato202
 
 
 ---
