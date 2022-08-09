@@ -16,7 +16,7 @@ readme.md # 本ファイル
 起動方法  
 1, コマンドプロンプトを開く  
 2, 仮想環境を開く  
-2(仮想環境がない場合), YicDiary_login, YicDiaryと同じファイルに仮想環境を作る  
+  (仮想環境がない場合), YicDiary_login, YicDiaryと同じファイルに仮想環境を作る  
 3, YicDiary_loginを起動する。
 
 
