@@ -28,7 +28,6 @@ class Yic:
     self.title = None
     self.plan = None
 
-    self.login_name = login_name
     self.login_id = login_id
     self.now_id = login_id
 
